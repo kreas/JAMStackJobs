@@ -1,0 +1,9 @@
+{
+  "emmet.includeLanguages": {
+    "pug": "html",
+  },
+  "editor.formatOnSave": true,
+  "markdownlint.config": {
+    "MD033": false
+  }
+}
